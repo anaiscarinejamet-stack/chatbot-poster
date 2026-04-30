@@ -1,30 +1,29 @@
-# start
+# Bonjour
 
-Bonjour ! Moi c’est Camille 👋  
-(on m’a dit beaucoup de bien sur ton travail 😏)
+👋 Bonjour !
 
-Maintenant il faut le valoriser !
+Moi c’est Camille, chargée de communication dans un labo d’analyse de l’eau.
+
+On m’a dit beaucoup de bien sur ton travail 😏  
+Maintenant, il faut le valoriser !
 
 Les chercheurs utilisent des posters :
 ✔ visuels  
 ✔ accrocheurs  
 ✔ synthétiques  
 
-Tu as déjà fait un poster ?
+👉 Clique pour commencer :
 
-- [Oui](#suite)
-- [Non](#suite)
+- [Commencer](#suite)
 
 ---
 
 # suite
 
-Parfait 👍  
-Dans tous les cas, on va revoir les bases ensemble.
+Tu as déjà fait un poster ?
 
-On va construire ton poster étape par étape.
-
-- [Commencer](#intro)
+- [Oui](#intro)
+- [Non](#intro)
 
 ---
 
@@ -32,9 +31,7 @@ On va construire ton poster étape par étape.
 
 🧩 **Étape 1 : Introduction**
 
-Tu as normalement un texte à trous.
-
-👉 Complète-le puis dis-moi quand tu as terminé !
+Complète ton texte à trous.
 
 - [J’ai fini](#methodo)
 
@@ -45,11 +42,9 @@ Tu as normalement un texte à trous.
 🧪 **Étape 2 : Méthodologie**
 
 Explique :
-- comment tu as fait  
+- comment  
 - avec quoi  
-- où tu as prélevé  
-
-👉 Reste court et précis.
+- où  
 
 - [J’ai fini](#resultats)
 
@@ -59,8 +54,8 @@ Explique :
 
 📊 **Étape 3 : Résultats**
 
-👉 Remplis ton tableau  
-👉 Ajoute tes graphiques (copier-coller)
+👉 Ajoute ton tableau  
+👉 Ajoute tes graphiques  
 
 - [J’ai fini](#seuils)
 
@@ -68,9 +63,7 @@ Explique :
 
 # seuils
 
-⚠️ **Étape 4 : Analyse**
-
-Combien d’éléments sont au-dessus des seuils ?
+⚠️ Combien d’éléments sont au-dessus des seuils ?
 
 - [0](#q0)
 - [1](#q1)
@@ -81,106 +74,80 @@ Combien d’éléments sont au-dessus des seuils ?
 ---
 
 # q0
-
-🌱 Très bonne qualité de l’eau !
-
-- [Continuer](#conclusion)
+🌱 Très bonne qualité  
+- [Suite](#conclusion)
 
 # q1
-
-👍 Bonne qualité de l’eau !
-
-- [Continuer](#conclusion)
+👍 Bonne qualité  
+- [Suite](#conclusion)
 
 # q2
-
-⚠️ Qualité modérée.
-
-- [Continuer](#conclusion)
+⚠️ Qualité modérée  
+- [Suite](#conclusion)
 
 # q3
-
-😐 Qualité passable.
-
-- [Continuer](#conclusion)
+😐 Qualité passable  
+- [Suite](#conclusion)
 
 # q45
-
-🚨 Mauvaise qualité de l’eau.
-
-- [Continuer](#conclusion)
+🚨 Mauvaise qualité  
+- [Suite](#conclusion)
 
 ---
 
 # conclusion
 
-✍️ **Rédige ta conclusion**
+✍️ Écris ta conclusion avec :
+✔ résultats  
+✔ seuils  
+✔ origine  
+✔ impacts  
 
-Elle doit contenir :
-✔ tes résultats  
-✔ les seuils  
-✔ l’origine de la pollution  
-✔ les impacts sur la faune et la flore  
-
-👉 Envoie-moi ta conclusion quand tu veux !
-
-- [J’ai terminé](#verification)
+- [J’ai fini](#verification)
 
 ---
 
 # verification
 
-🧐 **Vérification**
+As-tu tout mis ?
 
-As-tu bien inclus tous les éléments demandés ?
-
-- [Oui](#check_potable)
+- [Oui](#potable)
 - [Non](#incomplet)
 
 ---
 
 # incomplet
 
-❌ Ta conclusion est incomplète.
-
-👉 Vérifie que tu as :
-- résultats  
-- seuils  
-- origine  
-- impacts  
+❌ Il manque des éléments.
 
 - [Corriger](#conclusion)
 
 ---
 
-# check_potable
+# potable
 
-⚠️ As-tu utilisé le mot "potable" ?
+As-tu utilisé le mot **potable** ?
 
-- [Oui](#erreur_potable)
-- [Non](#valide)
+- [Oui](#erreur)
+- [Non](#finok)
 
 ---
 
-# erreur_potable
+# erreur
 
 ❗ Attention !
 
-Ici, on parle de **qualité de l’eau**, pas de potabilité.
-
-👉 La potabilité dépend aussi des éléments biologiques (bactéries, etc.)
-
-Corrige ta conclusion.
+On parle de qualité chimique, pas de potabilité.
 
 - [Corriger](#conclusion)
 
 ---
 
-# valide
+# finok
 
-✅ Très bon travail 👏  
+✅ Bravo 👏  
 
-Tu raisonnes comme un vrai scientifique !
+Tu as fait un vrai travail scientifique !
 
 - [Suite](#metier)
 
@@ -188,16 +155,11 @@ Tu raisonnes comme un vrai scientifique !
 
 # metier
 
-👩‍🔬 **Mon métier**
+👩‍🔬 Mon métier :
 
-Je suis chargée de communication dans un laboratoire.
+J’analyse les données et je communique les résultats.
 
-👉 Mon rôle :
-- analyser les résultats  
-- expliquer les pollutions  
-- informer le public  
-
-C’est essentiel pour protéger l’environnement 🌍
+🌍 C’est essentiel pour protéger l’environnement.
 
 - [Fin](#fin)
 
@@ -205,6 +167,6 @@ C’est essentiel pour protéger l’environnement 🌍
 
 # fin
 
-🎉 Bravo pour ton travail !
+🎉 Bravo !
 
 À bientôt 👋
