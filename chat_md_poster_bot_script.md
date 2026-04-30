@@ -1,152 +1,81 @@
-# Chatbot Poster - ChatMD Script
+# Bonjour
 
-## Introduction
-Bonjour ! Moi c’est :
-
-[Camille]
-[Lucas]
-[Inès]
-[Thomas]
-[Sofia]
-[Enzo]
-
-On m’a dit beaucoup de bien sur ton travail 👀  
-Maintenant il faut le valoriser !
-
-Les chercheurs utilisent souvent des posters :  
-✔ visuels  
-✔ accrocheurs  
-✔ synthétiques  
-
+Bonjour ! Moi c’est Camille 👋  
 Tu as déjà fait un poster ?
 
-[Oui]
-[Non]
+- [Oui](#suite)
+- [Non](#suite)
 
----
+# suite
 
-## Suite commune
-Super ! Dans tous les cas, on va revoir les bases ensemble 👍  
-On va construire ton poster étape par étape.
+Super ! On va construire ton poster étape par étape 👍  
 
----
+- [Commencer](#intro)
 
-## Étape 1 : Introduction
-Pour l’introduction, tu as normalement un texte à trous.
+# intro
 
-👉 Dis-moi quand tu as terminé !
+Pour l’introduction, dis-moi quand tu as fini.
 
-[J’ai fini]
+- [J’ai fini](#methodo)
 
----
+# methodo
 
-## Étape 2 : Méthodologie
-Parfait !
+Explique comment tu as fait.
 
-Maintenant : la méthodologie.
+- [J’ai fini](#resultats)
 
-👉 Tu dois expliquer :
-- comment tu as fait
-- avec quoi
-- où tu as prélevé
+# resultats
 
-Reste court et précis.
+Ajoute tes résultats et graphiques.
 
-Dis-moi quand c’est fait !
+- [J’ai fini](#seuils)
 
-[J’ai fini]
-
----
-
-## Étape 3 : Résultats
-Top 👍
-
-Passe aux résultats :
-
-👉 Remplis le tableau  
-👉 Ajoute tes 6 graphiques (copier-coller)
-
-Dis-moi quand c’est terminé !
-
-[J’ai fini]
-
----
-
-## Étape 4 : Analyse des seuils
-On arrive à la partie la plus importante : la conclusion 👇
+# seuils
 
 Combien d’éléments sont au-dessus du seuil ?
 
-[0]
-[1]
-[2]
-[3]
-[4 ou 5]
+- [0](#qualite0)
+- [1](#qualite1)
+- [2](#qualite2)
+- [3](#qualite3)
+- [4 ou 5](#qualite45)
 
----
+# qualite0
 
-## Qualité de l’eau
-Si 0 → Très bonne qualité 🌱  
-Si 1 → Bonne qualité 👍  
-Si 2 → Qualité modérée ⚠️  
-Si 3 → Qualité passable  
-Si 4-5 → Mauvaise qualité 🚨
+Très bonne qualité 🌱  
+- [Continuer](#conclusion)
 
----
+# qualite1
 
-## Rédaction conclusion
-Maintenant, écris ta conclusion ✍️
+Bonne qualité 👍  
+- [Continuer](#conclusion)
 
-Elle doit contenir :
-✔ tes résultats  
-✔ les seuils  
-✔ l’origine possible de la pollution  
-✔ les impacts sur la faune et la flore  
+# qualite2
 
-Tu peux me l’envoyer si tu veux un avis !
+Qualité modérée ⚠️  
+- [Continuer](#conclusion)
 
----
+# qualite3
 
-## Rappel important
-⚠️ Attention :  
-On parle ici de QUALITÉ de l’eau, pas de potabilité.
+Qualité passable  
+- [Continuer](#conclusion)
 
-👉 Si tu utilises le mot "potable" :  
-La potabilité dépend aussi des éléments biologiques.
+# qualite45
 
----
+Mauvaise qualité 🚨  
+- [Continuer](#conclusion)
 
-## Si incomplet
-Ta conclusion est incomplète.
+# conclusion
 
-👉 Vérifie que tu as bien :
-- les résultats
-- les seuils
-- une origine
-- les impacts environnementaux
+Écris ta conclusion avec :
+- résultats
+- seuils
+- origine
+- impacts
 
----
+- [Terminer](#fin)
 
-## Si correct
-Très bon travail 👏
+# fin
 
-Tu raisonnes comme un vrai scientifique !
-
----
-
-## Métier
-Si ça t’intéresse :
-
-Mon métier consiste à analyser les données,  
-comprendre les pollutions  
-et communiquer les résultats.
-
-C’est essentiel pour protéger l’environnement 🌍
-
----
-
-## Fin
-Bravo pour ton travail !
-
+Bravo pour ton travail 👏  
 À bientôt 👋
-
